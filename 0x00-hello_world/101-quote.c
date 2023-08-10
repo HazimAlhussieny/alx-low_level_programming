@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <string.h>
 
-/*
+/**
  *main - Entry point to the program.
  *Description: C program that prints a specific
  *sentence to the standard output. 
