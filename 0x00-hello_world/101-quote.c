@@ -4,7 +4,7 @@
 
 /**
 *main - Entry point to the program.
-*Description: C program that prints a sentence. 
+*Description:C program that prints a sentence. 
 *Return: Always 1 (Success).
 */
 
