@@ -3,11 +3,10 @@
 #include <string.h>
 
 /**
-*main - Entry point to the program.
-*Description: C program thar prints using (write). 
-*Return: Always 1 (Success).
-*/
-
+ * main - Entry point to the program.
+ * Description: C program that prints using (write).
+ * Return: Always 1 (Success).
+ */
 int main(void)
 {
 char sntnc[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
