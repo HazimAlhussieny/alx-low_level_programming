@@ -3,12 +3,10 @@
 #include <string.h>
 
 /*
- * main - Entry point to the program
- * 
+ * main - Entry point to the program.
  * Description: C program that prints a specific
- * sentence to the standard output.
- * 
- * Return: Always 1 (Success)
+ * sentence to the standard output. 
+ * Return: Always 1 (Success).
  */
 int main(void)
 {
