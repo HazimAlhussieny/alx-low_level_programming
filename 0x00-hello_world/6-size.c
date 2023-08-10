@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*
+/**
  * main - Entry point of the program
  *
  * Description: This program prints the sizes of various data types.
