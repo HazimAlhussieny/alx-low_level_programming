@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* mian- Entry point to the program
+* main- Entry point to the program
 *
 * Description: all possible different combinations of three digits.
 *
@@ -18,7 +18,7 @@ for (numb1 = 0 ; numb1 <= 9 ; numb1++)
 	{
 		for (numb3 = 0 ; numb3 <= 9 ; numb3++)
 		{
-			if (numb1 > numb2 || numb2 > numb3 || numb1>numb3)
+			if (numb1 > numb2 || numb2 > numb3 || numb1 > numb3)
 			{
 				continue;
 			}
