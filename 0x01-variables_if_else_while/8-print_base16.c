@@ -3,7 +3,7 @@
 /**
 * main- entry point to the program
 *
-* Description: All numbers in base 16 in lowercase 
+* Description: All numbers in base (16) in lowercase
 *
 * Return: Always (0) success
 */
