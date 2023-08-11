@@ -14,6 +14,10 @@ int numb;
 for (numb = 0 ; numb <= 9 ; numb++)
 {
 	putchar('0' + numb);
+	if (numb==9)
+	{
+		continue;
+	}
 	putchar(',');
 	putchar(' ');
 }
