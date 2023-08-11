@@ -25,7 +25,7 @@ else if (n < 6 && n !=0)
 }
 else
 {
-	prinf("The last digit of %d is %d and is 0\n", n, n % 10);
+	printf("The last digit of %d is %d and is 0\n", n, n % 10);
 }
 return (0);
 }
