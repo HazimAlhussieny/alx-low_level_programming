@@ -7,7 +7,6 @@
 *
 * Return: Always (0) success
 */
-
 int main(void)
 {
 int numb1;
@@ -19,11 +18,11 @@ for (numb1 = 0 ; numb1 <= 9 ; numb1++)
 	{
 		for (numb3 = 0 ; numb3 <= 9 ; numb3++)
 		{
-			if (numb1 > numb2 || numb2 > numb3 || numb1>numb3 )
+			if (numb1 > numb2 || numb2 > numb3 || numb1>numb3)
 			{
 				continue;
 			}
-			else if (numb1 == numb2 || numb2 == numb3 || numb1 == numb3 )
+			else if (numb1 == numb2 || numb2 == numb3 || numb1 == numb3)
 			{
 				continue;
 			}
