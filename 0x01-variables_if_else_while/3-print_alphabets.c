@@ -17,9 +17,9 @@ for (letter = 'a' ; letter <= 'z' ; letter++)
 	putchar(letter);
 }
 for (Letter = 'A' ; Letter <= 'Z' ; Letter++)
-{       
-        putchar(Letter);
-} 
+{
+	putchar(Letter);
+}
 putchar('\n');
 return (0);
 }
