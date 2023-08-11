@@ -14,8 +14,8 @@ int main(void)
 int i;
 int j = 0;
 int n_array[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
-char a_array[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'};
-char letter_number;
+int a_array[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'};
+int letter_number;
 for (i = 0 ; i < 10 ; i++)
 {
 	a_array[i] = n_array[i];
