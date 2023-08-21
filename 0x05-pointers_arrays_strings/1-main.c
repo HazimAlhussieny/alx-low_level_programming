@@ -18,7 +18,3 @@ int main(void)
     printf("a=%d, b=%d\n", a, b);
     return (0);
 }
-julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap.c -o 1-swap
-julien@ubuntu:~/0x05$ ./1-swap 
-a=98, b=42
-a=42, b=98
